@@ -30,6 +30,11 @@
   <ItemGroup>
     <Compile Include="seven.trumpets.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RuyiJinguBang\BindablePropertyEx.cs" />
+    <Compile Include="RuyiJinguBang\DataTemplateEx.cs" />
+    <Compile Include="RuyiJinguBang\LinqEx.cs" />
+    <Compile Include="RuyiJinguBang\ResponsiveLayout.cs" />
+    <Compile Include="RuyiJinguBang\ValueEx.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
