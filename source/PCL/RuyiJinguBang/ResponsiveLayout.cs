@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using Xamarin.Forms;
 
-namespace seven.trumpets
+namespace RuyiJinguBang
 {
 	public abstract class ResponsiveEelement
 	{
