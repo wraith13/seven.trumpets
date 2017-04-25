@@ -1,6 +1,7 @@
 ﻿using System;
 
 using Xamarin.Forms;
+using RuyiJinguBang;
 
 namespace seven.trumpets
 {
@@ -12,7 +13,34 @@ namespace seven.trumpets
             var content = new ContentPage
             {
                 Title = "seven.trumpets",
-                Content = new StackLayout
+                //*
+                Content = new ListView
+                {
+                    HasUnevenRows = true,
+                    ItemTemplate = new DataTemplateEx(typeof(AlphaTootCell))
+                        .SetBindingList
+                        (
+                            "DisplayName",
+                            "PreferredUsername",
+                            "TootText"
+                        ),
+                    ItemsSource = new[]
+                    {
+                        new
+                        {
+                            DisplayName = "道化師",
+                            PreferredUsername = "@wraith13",
+                            TootText = "ᔦꙬᔨ",
+                        },
+                        new
+                        {
+                            DisplayName = "道化師",
+                            PreferredUsername = "@wraith13",
+                            TootText = "(◔⊖◔)！",
+                        },
+                    }
+                }
+                /*/Content = new StackLayout
                 {
                     VerticalOptions = LayoutOptions.Center,
                     Children = {
@@ -21,7 +49,7 @@ namespace seven.trumpets
                             Text = "Welcome to Xamarin Forms!"
                         }
                     }
-                }
+                }//*/
             };
 
             MainPage = new NavigationPage(content);
