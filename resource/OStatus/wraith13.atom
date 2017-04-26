@@ -1,0 +1,349 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:poco="http://portablecontacts.net/spec/1.0" xmlns:media="http://purl.org/syndication/atommedia" xmlns:ostatus="http://ostatus.org/schema/1.0" xmlns:mastodon="http://mastodon.social/schema/1.0">
+  <id>https://ika.queloud.net/users/wraith13.atom</id>
+  <title>とつげきたろうex+</title>
+  <subtitle>S+シャープマーカー使い
+http://miiverse.nintendo.net/users/wraith131313
+https://twitter.com/wraith13</subtitle>
+  <updated>2017-04-22T13:09:03Z</updated>
+  <logo>https://ika.queloud.net/system/accounts/avatars/000/000/222/original/825e1a69736038a7.png?1492516741</logo>
+  <author>
+    <id>https://ika.queloud.net/users/wraith13</id>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <uri>https://ika.queloud.net/users/wraith13</uri>
+    <name>wraith13</name>
+    <email>wraith13@ika.queloud.net</email>
+    <summary>S+シャープマーカー使い
+http://miiverse.nintendo.net/users/wraith131313
+https://twitter.com/wraith13</summary>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/@wraith13"/>
+    <link rel="avatar" type="image/png" media:width="120" media:height="120" href="https://ika.queloud.net/system/accounts/avatars/000/000/222/original/825e1a69736038a7.png?1492516741"/>
+    <link rel="header" type="" media:width="700" media:height="335" href="https://ika.queloud.net/headers/original/missing.png"/>
+    <poco:preferredUsername>wraith13</poco:preferredUsername>
+    <poco:displayName>とつげきたろうex+</poco:displayName>
+    <poco:note>S+シャープマーカー使い
+&lt;a href="http://miiverse.nintendo.net/users/wraith131313" rel="nofollow noopener" target="_blank"&gt;&lt;span class="invisible"&gt;http://&lt;/span&gt;&lt;span class="ellipsis"&gt;miiverse.nintendo.net/users/wr&lt;/span&gt;&lt;span class="invisible"&gt;aith131313&lt;/span&gt;&lt;/a&gt;
+&lt;a href="https://twitter.com/wraith13" rel="nofollow noopener noopener" target="_blank"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class=""&gt;twitter.com/wraith13&lt;/span&gt;&lt;span class="invisible"&gt;&lt;/span&gt;&lt;/a&gt;</poco:note>
+    <mastodon:scope>public</mastodon:scope>
+  </author>
+  <link rel="alternate" type="text/html" href="https://ika.queloud.net/@wraith13"/>
+  <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13.atom"/>
+  <link rel="next" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13.atom?max_id=555"/>
+  <link rel="hub" href="https://ika.queloud.net/api/push"/>
+  <link rel="salmon" href="https://ika.queloud.net/api/salmon/222"/>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-23:objectId=3125:objectType=Status</id>
+    <published>2017-04-23T16:19:13Z</published>
+    <updated>2017-04-23T16:19:13Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;うー、いまのガチエリア、本当クソボロだった。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/1820"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/1820.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-22:objectId=1703:objectType=Status</id>
+    <published>2017-04-22T15:45:24Z</published>
+    <updated>2017-04-22T15:45:24Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;やっぱりホコが一番勝率いいなぁ。いまのホコ、いまのところ全勝。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/1564"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/1564.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-22:objectId=1679:objectType=Status</id>
+    <published>2017-04-22T13:48:05Z</published>
+    <updated>2017-04-22T13:48:05Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;S+にもなってボムラやってる味方の援護を全くやろうとしない馬鹿が多すぎる。たまにこっちがボムラ始めるとサッとバリア発動してお裾分けしてくれる味方がいたりするけど、アレはホント最高。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/1542"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/1542.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-22:objectId=1669:objectType=Status</id>
+    <published>2017-04-22T13:10:22Z</published>
+    <updated>2017-04-22T13:10:22Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;S落ちしてたってのに味方運に恵まれまくってS+復帰とかよくないなぁ。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/1533"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/1533.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-21:objectId=1447:objectType=Status</id>
+    <published>2017-04-21T16:15:54Z</published>
+    <updated>2017-04-21T16:15:54Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;自分もこれやってる。いまんところ、複数垢に対応したiOSアプリがないからねぇ。自分で作ってもいいんだけど、プッシュ通知を実装するにはサーバー側も用意しなきゃいけなくて手間もコストもかかるから悩ましいんよね。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/1327"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/1327.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-21:objectId=1443:objectType=Status</id>
+    <published>2017-04-21T16:13:10Z</published>
+    <updated>2017-04-21T16:13:10Z</updated>
+    <title>wraith13 shared a status by ikanago</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/activity</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+    <activity:object>
+      <id>tag:ika.queloud.net,2017-04-21:objectId=1356:objectType=Status</id>
+      <published>2017-04-21T11:47:30Z</published>
+      <updated>2017-04-21T11:47:30Z</updated>
+      <title>New status by ikanago</title>
+      <author>
+        <id>https://ika.queloud.net/users/ikanago</id>
+        <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+        <uri>https://ika.queloud.net/users/ikanago</uri>
+        <name>ikanago</name>
+        <email>ikanago@ika.queloud.net</email>
+        <summary>グラフィック&amp;WEBデザイナー 兼 幼児の母。スプラトゥーン暦は1の試射会からどっぷりです。最高S+48だけどここんとこずっとS帯！スシコラ・銅モデラー・シマネ</summary>
+        <link rel="alternate" type="text/html" href="https://ika.queloud.net/@ikanago"/>
+        <link rel="avatar" type="image/jpeg" media:width="120" media:height="120" href="https://ika.queloud.net/system/accounts/avatars/000/000/369/original/fa53e1c5d2db6c4c.jpg?1492740350"/>
+        <link rel="header" type="" media:width="700" media:height="335" href="https://ika.queloud.net/headers/original/missing.png"/>
+        <poco:preferredUsername>ikanago</poco:preferredUsername>
+        <poco:displayName>いかなご</poco:displayName>
+        <poco:note>グラフィック&amp;amp;WEBデザイナー 兼 幼児の母。スプラトゥーン暦は1の試射会からどっぷりです。最高S+48だけどここんとこずっとS帯！スシコラ・銅モデラー・シマネ</poco:note>
+        <mastodon:scope>public</mastodon:scope>
+      </author>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+      <content type="html">&lt;p&gt;マストドンをスマホで見るには、アプリよりもブラウザで開いたページを「ホームに追加」が使いやすい気がする (iPhoneです)&lt;br /&gt;&lt;a href="https://ika.queloud.net/media/-pyRf0rai9VpBTvxLOU" rel="nofollow noopener" target="_blank"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;ika.queloud.net/media/-pyRf0ra&lt;/span&gt;&lt;span class="invisible"&gt;i9VpBTvxLOU&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</content>
+      <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+      <link rel="enclosure" type="image/png" length="457026" href="https://ika.queloud.net/system/media_attachments/files/000/000/086/original/5fa5cf7b55bc59fb.PNG"/>
+      <mastodon:scope>public</mastodon:scope>
+      <link rel="alternate" type="text/html" href="https://ika.queloud.net/@ikanago/1356"/>
+    </activity:object>
+    <content type="html">&lt;p&gt;マストドンをスマホで見るには、アプリよりもブラウザで開いたページを「ホームに追加」が使いやすい気がする (iPhoneです)&lt;br /&gt;&lt;a href="https://ika.queloud.net/media/-pyRf0rai9VpBTvxLOU" rel="nofollow noopener" target="_blank"&gt;&lt;span class="invisible"&gt;https://&lt;/span&gt;&lt;span class="ellipsis"&gt;ika.queloud.net/media/-pyRf0ra&lt;/span&gt;&lt;span class="invisible"&gt;i9VpBTvxLOU&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/1323"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/1323.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-21:objectId=1442:objectType=Status</id>
+    <published>2017-04-21T16:05:03Z</published>
+    <updated>2017-04-21T16:05:03Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;Twitterで誰が言ってたんだけど、強いキャラがいることで廃れた格闘ゲームないけど、バランスを良くしたことで逆に廃れたケースはあるって話し、ホントそういうものだとおもう。ゲームにおいてはある程度の理不尽さ逆にゲームの面白さを増す要素になり得る。スプラトゥーン2において、無敵系スペシャルが全廃されたって話しは正にそのバランスを良くしたことで逆に面白さを欠くことになりかねなくてちょっと心配してる。なんの予備知識もなくスプラトゥーンを始めてBバスパークのステージの中を駆けずり回るダイオウイカを初めて見た時の「なんだあれは！？」って衝撃はホント凄かったし自分がスプラトゥーンに嵌まった瞬間でもあったと思うし、自分ではダイオウイカが使えるブキは常用してないんだけど、それでもダイオウイカが無くなるんだとしたらとても悲しい。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/1322"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/1322.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-21:objectId=1440:objectType=Status</id>
+    <published>2017-04-21T15:49:38Z</published>
+    <updated>2017-04-21T15:49:38Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;Mastodonの利点は世界的にMastodonが廃れていったとしても個々のインスタンスに関しては管理者が維持してくれる限りにおいてはいつまでも利用可能な事。 Twitterなんかあれだけインフラとして成長してても全然まともに利益化できてないから、ある日突然死にかねない。いまMastodonがこれだけ急激に盛り上がってるのも、いざって時のTwitterからの避難先の誕生が渇望されたからだと思う。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/1320"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/1320.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-21:objectId=1436:objectType=Status</id>
+    <published>2017-04-21T15:43:12Z</published>
+    <updated>2017-04-21T15:43:12Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;どこのインスタンスの垢を本垢として使うかはまだ決めかねているところなんだけど、ここに関してはイカ専用のBBS的に使おうと思ってる。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/1316"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/1316.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-21:objectId=1422:objectType=Status</id>
+    <published>2017-04-21T14:45:23Z</published>
+    <updated>2017-04-21T14:45:23Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;ここぞという場面で味方がカモンに応じてくれて一気にノックアウト勝ちできるとやっぱり気持ちいい。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/1303"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/1303.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-19:objectId=680:objectType=Status</id>
+    <published>2017-04-19T12:27:09Z</published>
+    <updated>2017-04-19T12:27:09Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;まだ、自分のイカ関係の知り合いがこっちには全然きてなさげなんだけど、まぁ、あんまり人が増えすぎないほうが昔ながらのBBS感もあって、これはこれで良い気がする。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/636"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/636.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-19:objectId=662:objectType=Status</id>
+    <published>2017-04-19T11:36:39Z</published>
+    <updated>2017-04-19T11:36:39Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;(&amp;apos;A`) そこの1キルリッターさん、その唯一のキルが敵がホコを防衛しやすいようにワザとキルされる前提で移動した場所でのキルとか、流石に戦犯通り越して最早敵のスパイ状態ですよ。。。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/618"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/618.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-19:objectId=648:objectType=Status</id>
+    <published>2017-04-19T10:53:09Z</published>
+    <updated>2017-04-19T10:53:09Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;さっきのヤグラの戦績が嘘のようにホコでは打って変わって全勝してる。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/604"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/604.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-19:objectId=644:objectType=Status</id>
+    <published>2017-04-19T10:36:25Z</published>
+    <updated>2017-04-19T10:36:25Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;最終的に勝ったからいいけど、一人で敵３人倒して(三人目と相撃ち)残った敵一人に大幅にポイント稼がれる時ってホントやるせない。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/600"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/600.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-19:objectId=642:objectType=Status</id>
+    <published>2017-04-19T10:34:00Z</published>
+    <updated>2017-04-19T10:34:00Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;やっぱり自分はホコが一番勝率高そう。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/598"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/598.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-19:objectId=624:objectType=Status</id>
+    <published>2017-04-19T10:09:19Z</published>
+    <updated>2017-04-19T10:09:19Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;ジャイロによるものかはわからんけど、最近、たまに横にスーッとずれるのあるけど、自分の環境はそれより左アナログスティックが死にかけでつらい。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/580"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/580.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-19:objectId=623:objectType=Status</id>
+    <published>2017-04-19T10:09:17Z</published>
+    <updated>2017-04-19T10:09:17Z</updated>
+    <title>wraith13 shared a status by splatoon</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/activity</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/share</activity:verb>
+    <activity:object>
+      <id>tag:ika.queloud.net,2017-04-19:objectId=611:objectType=Status</id>
+      <published>2017-04-19T09:20:23Z</published>
+      <updated>2017-04-19T09:20:23Z</updated>
+      <title>New status by splatoon</title>
+      <author>
+        <id>https://ika.queloud.net/users/splatoon</id>
+        <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+        <uri>https://ika.queloud.net/users/splatoon</uri>
+        <name>splatoon</name>
+        <email>splatoon@ika.queloud.net</email>
+        <summary>タグマやプラベ色々やりましょう！</summary>
+        <link rel="alternate" type="text/html" href="https://ika.queloud.net/@splatoon"/>
+        <link rel="avatar" type="image/jpeg" media:width="120" media:height="120" href="https://ika.queloud.net/system/accounts/avatars/000/000/209/original/531356768b02b33f.jpg?1492503270"/>
+        <link rel="header" type="" media:width="700" media:height="335" href="https://ika.queloud.net/headers/original/missing.png"/>
+        <poco:preferredUsername>splatoon</poco:preferredUsername>
+        <poco:displayName>玉ねぎ</poco:displayName>
+        <poco:note>タグマやプラベ色々やりましょう！</poco:note>
+        <mastodon:scope>public</mastodon:scope>
+      </author>
+      <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+      <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+      <content type="html">&lt;p&gt;ジャイロが勝手に回る人おらん？&lt;br /&gt;同志居ない？&lt;br /&gt;勝手にスーッて横にずれるやつ&lt;/p&gt;</content>
+      <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+      <mastodon:scope>public</mastodon:scope>
+      <link rel="alternate" type="text/html" href="https://ika.queloud.net/@splatoon/611"/>
+    </activity:object>
+    <content type="html">&lt;p&gt;ジャイロが勝手に回る人おらん？&lt;br /&gt;同志居ない？&lt;br /&gt;勝手にスーッて横にずれるやつ&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/579"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/579.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-19:objectId=605:objectType=Status</id>
+    <published>2017-04-19T08:49:44Z</published>
+    <updated>2017-04-19T08:49:44Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;改めて戦績振り返るといまのプレイ、一勝しかしてない。。。酷すぎる。。。orz&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/561"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/561.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-19:objectId=603:objectType=Status</id>
+    <published>2017-04-19T08:48:01Z</published>
+    <updated>2017-04-19T08:48:01Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;ダメだ。また負けた。寝不足な状態でやるなってことか。今朝早くから用事があって、睡眠時間が足りてなかったんだった。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/559"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/559.atom"/>
+  </entry>
+  <entry>
+    <id>tag:ika.queloud.net,2017-04-19:objectId=599:objectType=Status</id>
+    <published>2017-04-19T08:40:03Z</published>
+    <updated>2017-04-19T08:40:03Z</updated>
+    <title>New status by wraith13</title>
+    <activity:object-type>http://activitystrea.ms/schema/1.0/note</activity:object-type>
+    <activity:verb>http://activitystrea.ms/schema/1.0/post</activity:verb>
+    <content type="html">&lt;p&gt;あかん、S落ちしても連敗が止まらん。。。　まぁ、最後のは味方が通信エラー落ちしてたんだけど。。。&lt;/p&gt;</content>
+    <link rel="mentioned" ostatus:object-type="http://activitystrea.ms/schema/1.0/collection" href="http://activityschema.org/collection/public"/>
+    <mastodon:scope>public</mastodon:scope>
+    <link rel="alternate" type="text/html" href="https://ika.queloud.net/users/wraith13/updates/555"/>
+    <link rel="self" type="application/atom+xml" href="https://ika.queloud.net/users/wraith13/updates/555.atom"/>
+  </entry>
+</feed>
