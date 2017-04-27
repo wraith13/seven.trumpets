@@ -5,9 +5,9 @@ using RuyiJinguBang;
 
 namespace seven.trumpets
 {
-    public class App : Application
+    public class AlphaApp : Application
     {
-        public App()
+        public AlphaApp()
         {
             // The root page of your application
             var content = new ContentPage
