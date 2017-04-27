@@ -5,14 +5,14 @@ using RuyiJinguBang;
 
 namespace seven.trumpets
 {
-    public class AlphaFirstPage : ResponsiveContentPage
+    public class AlphaInfoPage : ResponsiveContentPage
     {
-        public AlphaFirstPage()
+        public AlphaInfoPage()
         {
             Content = new StackLayout
             {
                 Children = {
-                    new Label { Text = "AlphaFirstPage" }
+                    new Label { Text = "AlphaInfoPage" }
                 }
             };
         }
