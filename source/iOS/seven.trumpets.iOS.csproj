@@ -119,6 +119,10 @@
       <Project>{24F09A56-5918-4D7E-95EB-D08F8CA5A84B}</Project>
       <Name>seven.trumpets.PCL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Domain\seven.trumpets.Domain.csproj">
+      <Project>{9FA6E4F8-EFD5-44C7-B476-831E74AB4F8F}</Project>
+      <Name>seven.trumpets.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.3.4.231\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.3.4.231\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20\Xamarin.Forms.targets')" />
