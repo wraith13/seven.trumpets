@@ -113,6 +113,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="OmegaFactory.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PCL\seven.trumpets.PCL.csproj">
