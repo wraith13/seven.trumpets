@@ -30,11 +30,6 @@
   <ItemGroup>
     <Compile Include="AlphaApp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RuyiJinguBang\BindablePropertyEx.cs" />
-    <Compile Include="RuyiJinguBang\DataTemplateEx.cs" />
-    <Compile Include="RuyiJinguBang\LinqEx.cs" />
-    <Compile Include="RuyiJinguBang\ResponsiveLayout.cs" />
-    <Compile Include="RuyiJinguBang\ValueEx.cs" />
     <Compile Include="Cells\AlphaTootCell.cs" />
     <Compile Include="Pages\AlphaFirstPage.cs" />
     <Compile Include="Pages\AlphaTimelinePage.cs" />
@@ -44,6 +39,9 @@
     <Compile Include="Pages\AlphaSettingsPage.cs" />
     <Compile Include="AlphaFactory.cs" />
     <Compile Include="Pages\AlphaInfoPage.cs" />
+    <Compile Include="RuyiJinguBang\BindablePropertyEx.cs" />
+    <Compile Include="RuyiJinguBang\DataTemplateEx.cs" />
+    <Compile Include="RuyiJinguBang\ResponsiveLayout.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
@@ -62,6 +60,7 @@
   <ItemGroup>
     <Folder Include="Cells\" />
     <Folder Include="Pages\" />
+    <Folder Include="RuyiJinguBang\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Domain\seven.trumpets.Domain.csproj">

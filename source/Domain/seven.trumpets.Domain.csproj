@@ -31,9 +31,14 @@
     <Compile Include="AlphaDomain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="AlphaImageProxy.cs" />
+    <Compile Include="RuyiJinguBang\LinqEx.cs" />
+    <Compile Include="RuyiJinguBang\ValueEx.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="RuyiJinguBang\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
 </Project>
