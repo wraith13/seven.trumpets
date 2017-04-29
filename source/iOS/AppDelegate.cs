@@ -27,7 +27,7 @@ namespace seven.trumpets.iOS
                 OmegaFactory.MakeSureInit();
                 App = AlphaFactory.MakeSureApp();
             }
-        return App;
+            return App;
         }
     }
 }
