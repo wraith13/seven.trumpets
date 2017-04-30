@@ -17,7 +17,7 @@ namespace seven.trumpets
             IconImage.VerticalOptions = LayoutOptions.Start;
             IconImage.WidthRequest = 32;
             IconImage.HeightRequest = 32;
-            IconImage.Source = ImageSource.FromUri(new Uri("https://ika.queloud.net/system/accounts/avatars/000/000/222/original/825e1a69736038a7.png?1492516741"));
+            IconImage.Source = ImageSource.FromUri(new Uri("https://ika.queloud.net/system/accounts/avatars/000/000/222/original/5ba253f596e7ce8f.png?1493388960"));
             DisplayNameLabel.HorizontalOptions = LayoutOptions.Start;
             PreferredUsernameLabel.HorizontalOptions = LayoutOptions.StartAndExpand;
             PreferredUsernameLabel.TextColor = Color.Gray;
