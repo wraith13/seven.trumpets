@@ -156,9 +156,9 @@
       <Project>{9fa6e4f8-efd5-44c7-b476-831e74ab4f8f}</Project>
       <Name>seven.trumpets.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\PCL\seven.trumpets.PCL.csproj">
+    <ProjectReference Include="..\App\seven.trumpets.App.csproj">
       <Project>{24f09a56-5918-4d7e-95eb-d08f8ca5a84b}</Project>
-      <Name>seven.trumpets.PCL</Name>
+      <Name>seven.trumpets.App</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

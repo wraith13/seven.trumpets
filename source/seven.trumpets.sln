@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seven.trumpets.PCL", "PCL\seven.trumpets.PCL.csproj", "{24F09A56-5918-4D7E-95EB-D08F8CA5A84B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seven.trumpets.App", "App\seven.trumpets.App.csproj", "{24F09A56-5918-4D7E-95EB-D08F8CA5A84B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seven.trumpets.iOS", "iOS\seven.trumpets.iOS.csproj", "{4D957564-285C-4C2A-9E01-77B38505C999}"
 EndProject

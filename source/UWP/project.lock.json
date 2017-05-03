@@ -1895,7 +1895,7 @@
           "build/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.targets": {}
         }
       },
-      "seven.trumpets.PCL/1.0.0": {
+      "seven.trumpets.App/1.0.0": {
         "type": "project"
       }
     },
@@ -3659,7 +3659,7 @@
           "build/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.targets": {}
         }
       },
-      "seven.trumpets.PCL/1.0.0": {
+      "seven.trumpets.App/1.0.0": {
         "type": "project"
       }
     },
@@ -5380,7 +5380,7 @@
           "build/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.targets": {}
         }
       },
-      "seven.trumpets.PCL/1.0.0": {
+      "seven.trumpets.App/1.0.0": {
         "type": "project"
       }
     },
@@ -7153,7 +7153,7 @@
           "build/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.targets": {}
         }
       },
-      "seven.trumpets.PCL/1.0.0": {
+      "seven.trumpets.App/1.0.0": {
         "type": "project"
       }
     },
@@ -8874,7 +8874,7 @@
           "build/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.targets": {}
         }
       },
-      "seven.trumpets.PCL/1.0.0": {
+      "seven.trumpets.App/1.0.0": {
         "type": "project"
       }
     },
@@ -10647,7 +10647,7 @@
           "build/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.targets": {}
         }
       },
-      "seven.trumpets.PCL/1.0.0": {
+      "seven.trumpets.App/1.0.0": {
         "type": "project"
       }
     },
@@ -12368,7 +12368,7 @@
           "build/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+Xamarin.iOS10+xamarinmac20/Xamarin.Forms.targets": {}
         }
       },
-      "seven.trumpets.PCL/1.0.0": {
+      "seven.trumpets.App/1.0.0": {
         "type": "project"
       }
     }
@@ -15912,10 +15912,10 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "seven.trumpets.PCL/1.0.0": {
+    "seven.trumpets.App/1.0.0": {
       "type": "project",
-      "path": "../PCL/seven.trumpets.PCL.csproj",
-      "msbuildProject": "../PCL/seven.trumpets.PCL.csproj"
+      "path": "../App/seven.trumpets.App.csproj",
+      "msbuildProject": "../App/seven.trumpets.App.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -15938,8 +15938,8 @@
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\github\\wraith13\\seven.trumpets\\source\\PCL\\seven.trumpets.PCL.csproj": {
-              "projectPath": "C:\\github\\wraith13\\seven.trumpets\\source\\PCL\\seven.trumpets.PCL.csproj"
+            "C:\\github\\wraith13\\seven.trumpets\\source\\App\\seven.trumpets.App.csproj": {
+              "projectPath": "C:\\github\\wraith13\\seven.trumpets\\source\\App\\seven.trumpets.App.csproj"
             }
           }
         }

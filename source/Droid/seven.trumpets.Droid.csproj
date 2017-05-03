@@ -113,9 +113,9 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PCL\seven.trumpets.PCL.csproj">
+    <ProjectReference Include="..\App\seven.trumpets.App.csproj">
       <Project>{24F09A56-5918-4D7E-95EB-D08F8CA5A84B}</Project>
-      <Name>seven.trumpets.PCL</Name>
+      <Name>seven.trumpets.App</Name>
     </ProjectReference>
     <ProjectReference Include="..\Domain\seven.trumpets.Domain.csproj">
       <Project>{9FA6E4F8-EFD5-44C7-B476-831E74AB4F8F}</Project>
