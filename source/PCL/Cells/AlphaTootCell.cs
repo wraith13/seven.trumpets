@@ -1,12 +1,16 @@
 ﻿using System;
-
+using System.Diagnostics;
+using System.Reflection;
+using System.Threading.Tasks;
 using Xamarin.Forms;
+using seven.trumpets.Domain;
+using RuyiJinguBang;
 
 namespace seven.trumpets
 {
     public class AlphaTootCell : ViewCell
     {
-        public Image IconImage = new Image();
+        public AlphaImageView IconImage = new AlphaImageView();
         public Label DisplayNameLabel = new Label();
         public Label PreferredUsernameLabel = new Label();
         public Label TimeLabel = new Label();
@@ -14,10 +18,13 @@ namespace seven.trumpets
 
         public AlphaTootCell()
         {
+            IconImage.IsCircle = true;
+            IconImage.EnabledAnimation = true;
             IconImage.VerticalOptions = LayoutOptions.Start;
             IconImage.WidthRequest = 32;
             IconImage.HeightRequest = 32;
-            IconImage.Source = ImageSource.FromUri(new Uri("https://ika.queloud.net/system/accounts/avatars/000/000/222/original/5ba253f596e7ce8f.png?1493388960"));
+            AlphaImageProxy.Get("https://ika.queloud.net/system/accounts/avatars/000/000/222/original/5ba253f596e7ce8f.png?1493388960")
+                .ContiuneWithOnUIThread(t => IconImage.ImageBytes = t.Result);
             DisplayNameLabel.HorizontalOptions = LayoutOptions.Start;
             PreferredUsernameLabel.HorizontalOptions = LayoutOptions.StartAndExpand;
             PreferredUsernameLabel.TextColor = Color.Gray;

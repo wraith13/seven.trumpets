@@ -42,6 +42,9 @@
     <Compile Include="RuyiJinguBang\BindablePropertyEx.cs" />
     <Compile Include="RuyiJinguBang\DataTemplateEx.cs" />
     <Compile Include="RuyiJinguBang\ResponsiveLayout.cs" />
+    <Compile Include="Views\AlphaImageView.cs" />
+    <Compile Include="RuyiJinguBang\ViewEx.cs" />
+    <Compile Include="RuyiJinguBang\TaskEx.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
@@ -67,6 +70,7 @@
     <Folder Include="Cells\" />
     <Folder Include="Pages\" />
     <Folder Include="RuyiJinguBang\" />
+    <Folder Include="Views\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Domain\seven.trumpets.Domain.csproj">

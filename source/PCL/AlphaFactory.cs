@@ -21,6 +21,7 @@ namespace seven.trumpets
         protected static void Init(AlphaFactory Factory)
         {
             Instance = Factory;
+            AlphaFactory.MakeSureDomain();
         }
         public static AlphaFactory Get()
         {
